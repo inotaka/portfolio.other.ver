@@ -17,6 +17,7 @@
 
 .l-body {
   padding-left: 0;
+  margin: 0;
   list-style: none;
 }
 
@@ -56,6 +57,7 @@
   background-color: blue;
   opacity: 0.8;
   width: 100%;
+  margin: 0;
   text-align: center;
 }
 .l-header__right--link-sp {
@@ -445,6 +447,7 @@ textarea::-webkit-input-placeholder {
 
 .l-body {
   padding-left: 0;
+  margin: 0;
   list-style: none;
 }
 
@@ -506,10 +509,12 @@ textarea::-webkit-input-placeholder {
   font-weight: bold;
 }
 .p-mainTtl__ttl {
+  margin: 0;
   font-weight: bold;
   font-size: 100px;
 }
 .p-mainTtl__txt {
+  margin: 0;
   font-size: 40px;
 }
 .p-mainTtl__icon {
